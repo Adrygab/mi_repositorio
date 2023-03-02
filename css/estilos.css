@@ -7,10 +7,14 @@ body{
 }
 
 main{
-    background-color: green;;
+    background-color: green;
+    padding: 30px;
 }
 
 
 h1{
     color: #ffffff;
+    font-size: 30px;
+
 }
+
